@@ -1,0 +1,7 @@
+using System;
+
+class OlaMundo {
+	static void Main(string[] args) {
+		Console.WriteLine("Olá, mundo!");
+	}
+}

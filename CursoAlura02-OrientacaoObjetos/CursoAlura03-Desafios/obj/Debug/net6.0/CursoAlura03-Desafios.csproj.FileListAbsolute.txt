@@ -1,0 +1,15 @@
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\bin\Debug\net6.0\CursoAlura03-Desafios.exe
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\bin\Debug\net6.0\CursoAlura03-Desafios.deps.json
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\bin\Debug\net6.0\CursoAlura03-Desafios.runtimeconfig.json
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\bin\Debug\net6.0\CursoAlura03-Desafios.dll
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\bin\Debug\net6.0\CursoAlura03-Desafios.pdb
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\obj\Debug\net6.0\CursoAlura03-Desafios.csproj.AssemblyReference.cache
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\obj\Debug\net6.0\CursoAlura03-Desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\obj\Debug\net6.0\CursoAlura03-Desafios.AssemblyInfoInputs.cache
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\obj\Debug\net6.0\CursoAlura03-Desafios.AssemblyInfo.cs
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\obj\Debug\net6.0\CursoAlura03-Desafios.csproj.CoreCompileInputs.cache
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\obj\Debug\net6.0\CursoAlura03-Desafios.dll
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\obj\Debug\net6.0\refint\CursoAlura03-Desafios.dll
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\obj\Debug\net6.0\CursoAlura03-Desafios.pdb
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\obj\Debug\net6.0\CursoAlura03-Desafios.genruntimeconfig.cache
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-Desafios\obj\Debug\net6.0\ref\CursoAlura03-Desafios.dll

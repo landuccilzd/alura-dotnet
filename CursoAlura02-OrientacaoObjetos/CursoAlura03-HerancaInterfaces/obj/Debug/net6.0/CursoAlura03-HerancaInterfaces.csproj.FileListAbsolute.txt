@@ -1,0 +1,15 @@
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\obj\Debug\net6.0\CursoAlura03-HerancaInterfaces.csproj.AssemblyReference.cache
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\obj\Debug\net6.0\CursoAlura03-HerancaInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\obj\Debug\net6.0\CursoAlura03-HerancaInterfaces.AssemblyInfoInputs.cache
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\obj\Debug\net6.0\CursoAlura03-HerancaInterfaces.AssemblyInfo.cs
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\obj\Debug\net6.0\CursoAlura03-HerancaInterfaces.csproj.CoreCompileInputs.cache
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\bin\Debug\net6.0\CursoAlura03-HerancaInterfaces.exe
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\bin\Debug\net6.0\CursoAlura03-HerancaInterfaces.deps.json
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\bin\Debug\net6.0\CursoAlura03-HerancaInterfaces.runtimeconfig.json
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\bin\Debug\net6.0\CursoAlura03-HerancaInterfaces.dll
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\bin\Debug\net6.0\CursoAlura03-HerancaInterfaces.pdb
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\obj\Debug\net6.0\CursoAlura03-HerancaInterfaces.dll
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\obj\Debug\net6.0\refint\CursoAlura03-HerancaInterfaces.dll
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\obj\Debug\net6.0\CursoAlura03-HerancaInterfaces.pdb
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\obj\Debug\net6.0\CursoAlura03-HerancaInterfaces.genruntimeconfig.cache
+C:\dev\estudo-dotnet\CursoAlura02-OrientacaoObjetos\CursoAlura03-HerancaInterfaces\obj\Debug\net6.0\ref\CursoAlura03-HerancaInterfaces.dll

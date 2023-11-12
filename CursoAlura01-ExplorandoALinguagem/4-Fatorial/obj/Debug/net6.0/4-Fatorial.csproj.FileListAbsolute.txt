@@ -1,0 +1,15 @@
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\bin\Debug\net6.0\4-Fatorial.exe
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\bin\Debug\net6.0\4-Fatorial.deps.json
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\bin\Debug\net6.0\4-Fatorial.runtimeconfig.json
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\bin\Debug\net6.0\4-Fatorial.dll
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\bin\Debug\net6.0\4-Fatorial.pdb
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\obj\Debug\net6.0\4-Fatorial.csproj.AssemblyReference.cache
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\obj\Debug\net6.0\4-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\obj\Debug\net6.0\4-Fatorial.AssemblyInfoInputs.cache
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\obj\Debug\net6.0\4-Fatorial.AssemblyInfo.cs
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\obj\Debug\net6.0\4-Fatorial.csproj.CoreCompileInputs.cache
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\obj\Debug\net6.0\4-Fatorial.dll
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\obj\Debug\net6.0\refint\4-Fatorial.dll
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\obj\Debug\net6.0\4-Fatorial.pdb
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\obj\Debug\net6.0\4-Fatorial.genruntimeconfig.cache
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\4-Fatorial\obj\Debug\net6.0\ref\4-Fatorial.dll

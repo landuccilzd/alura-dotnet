@@ -1,0 +1,15 @@
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\bin\Debug\net6.0\3-ASCIIArt.exe
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\bin\Debug\net6.0\3-ASCIIArt.deps.json
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\bin\Debug\net6.0\3-ASCIIArt.runtimeconfig.json
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\bin\Debug\net6.0\3-ASCIIArt.dll
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\bin\Debug\net6.0\3-ASCIIArt.pdb
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\obj\Debug\net6.0\3-ASCIIArt.csproj.AssemblyReference.cache
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\obj\Debug\net6.0\3-ASCIIArt.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\obj\Debug\net6.0\3-ASCIIArt.AssemblyInfoInputs.cache
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\obj\Debug\net6.0\3-ASCIIArt.AssemblyInfo.cs
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\obj\Debug\net6.0\3-ASCIIArt.csproj.CoreCompileInputs.cache
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\obj\Debug\net6.0\3-ASCIIArt.dll
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\obj\Debug\net6.0\refint\3-ASCIIArt.dll
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\obj\Debug\net6.0\3-ASCIIArt.pdb
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\obj\Debug\net6.0\3-ASCIIArt.genruntimeconfig.cache
+C:\dev\estudo-dotnet\CursoAlura01-ExplorandoALinguagem\3-ASCIIArt\obj\Debug\net6.0\ref\3-ASCIIArt.dll

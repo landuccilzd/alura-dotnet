@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAlura02-OrientacaoObjetos", "CursoAlura02-OrientacaoObjetos\CursoAlura02-OrientacaoObjetos.csproj", "{453B6D74-1926-400E-8A21-3C09B02ADEB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAlura03-HerancaInterfaces", "CursoAlura03-HerancaInterfaces\CursoAlura03-HerancaInterfaces.csproj", "{900A85D8-40ED-4C61-BF97-B726F4061757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAlura03-Desafios", "CursoAlura03-Desafios\CursoAlura03-Desafios.csproj", "{D5BBD5FD-97FA-4A2A-ADE8-E54B988905DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{453B6D74-1926-400E-8A21-3C09B02ADEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453B6D74-1926-400E-8A21-3C09B02ADEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453B6D74-1926-400E-8A21-3C09B02ADEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453B6D74-1926-400E-8A21-3C09B02ADEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900A85D8-40ED-4C61-BF97-B726F4061757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900A85D8-40ED-4C61-BF97-B726F4061757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900A85D8-40ED-4C61-BF97-B726F4061757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900A85D8-40ED-4C61-BF97-B726F4061757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BBD5FD-97FA-4A2A-ADE8-E54B988905DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BBD5FD-97FA-4A2A-ADE8-E54B988905DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BBD5FD-97FA-4A2A-ADE8-E54B988905DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BBD5FD-97FA-4A2A-ADE8-E54B988905DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78EE237A-E71D-4A5F-AE72-F679B853CEB6}
+	EndGlobalSection
+EndGlobal
